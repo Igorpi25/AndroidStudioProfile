@@ -1,0 +1,167 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="/Users/user/AndroidStudioProjects/Profile1/profile/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/23.4.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="c2c594cace5d83a3227b2b6e658ecbfd586d3ed9">
+        <dex dex="/Users/user/AndroidStudioProjects/Profile1/profile/build/intermediates/pre-dexed/debug/com.android.support-support-vector-drawable-23.4.0_a390d90b57872ca685a0902aa557f3b29771111a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/user/AndroidStudioProjects/Profile1/profile/build/intermediates/exploded-aar/Profile1/uploader/unspecified/jars/libs/glide-3.6.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="dec1fd461fede910290e47a6a111757bb8734d84">
+        <dex dex="/Users/user/AndroidStudioProjects/Profile1/profile/build/intermediates/pre-dexed/debug/glide-3.6.0_993883a6147651751945173897eda74d2397a484.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/user/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/23.4.0/support-annotations-23.4.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="ffbe55fdb2bb456b1485831706a9eac3300bb6b8">
+        <dex dex="/Users/user/AndroidStudioProjects/Profile1/profile/build/intermediates/pre-dexed/debug/support-annotations-23.4.0_13319ac4c33307c20878b1059903d7ff4bca9061.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/user/AndroidStudioProjects/Profile1/profile/build/intermediates/exploded-aar/com.android.support/recyclerview-v7/23.4.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="ec75036c3c52e451d0cde50a5aedaf5fd32354a0">
+        <dex dex="/Users/user/AndroidStudioProjects/Profile1/profile/build/intermediates/pre-dexed/debug/com.android.support-recyclerview-v7-23.4.0_fbd17b879e1bae48830417f9ed902d434b0fd72c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/user/AndroidStudioProjects/Profile1/profile/build/intermediates/exploded-aar/com.android.support/support-v4/23.4.0/jars/libs/internal_impl-23.4.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="ea3c07504d2c8f4b13aa17c45c1b68ed9c1c3674">
+        <dex dex="/Users/user/AndroidStudioProjects/Profile1/profile/build/intermediates/pre-dexed/debug/internal_impl-23.4.0_e20b8adddb03dc110ad9e623bcc44bf2b3b2794e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/user/AndroidStudioProjects/Profile1/profile/build/intermediates/exploded-aar/Profile1/connection/unspecified/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="2b754c22abcf6ffd3c484e16e7fe8dbdd7ea2840">
+        <dex dex="/Users/user/AndroidStudioProjects/Profile1/profile/build/intermediates/pre-dexed/debug/Profile1-connection-unspecified_462d4b3ff7e2a15316b5a47aa9348296f5a0e21a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/user/AndroidStudioProjects/Profile1/profile/build/intermediates/exploded-aar/com.android.support/cardview-v7/23.4.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="d9ecde39b460470e655de6e47c05573d2d5a8bfb">
+        <dex dex="/Users/user/AndroidStudioProjects/Profile1/profile/build/intermediates/pre-dexed/debug/com.android.support-cardview-v7-23.4.0_7263c3d3a0ab38e196f94a261556c1ebdb460894.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/user/AndroidStudioProjects/Profile1/profile/build/intermediates/exploded-aar/com.android.support/support-v4/23.4.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="67bd36ee9340ec7c254108936ad16b24bed160cc">
+        <dex dex="/Users/user/AndroidStudioProjects/Profile1/profile/build/intermediates/pre-dexed/debug/com.android.support-support-v4-23.4.0_fa31d07e4ef618ca6e54796e96041158eb39375d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/user/AndroidStudioProjects/Profile1/profile/build/intermediates/exploded-aar/Profile1/session/unspecified/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="fce30f014e87d4ac6ea73f34bb666920598e03c8">
+        <dex dex="/Users/user/AndroidStudioProjects/Profile1/profile/build/intermediates/pre-dexed/debug/Profile1-session-unspecified_4608ef4f2eb4b3f5e10aae995e83423731719f5f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/user/AndroidStudioProjects/Profile1/profile/build/intermediates/exploded-aar/Profile1/multipleTypesAdapter/unspecified/jars/libs/volley.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="8cad34a1d9e891992e9bcf06f06f0596fa936471">
+        <dex dex="/Users/user/AndroidStudioProjects/Profile1/profile/build/intermediates/pre-dexed/debug/volley_efa8dfbf90edc69a076e196c77aec5c9b2e3e03f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/user/AndroidStudioProjects/Profile1/profile/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/23.4.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="de4db3785756bfb0915a9f59a9b3f2fea7407be4">
+        <dex dex="/Users/user/AndroidStudioProjects/Profile1/profile/build/intermediates/pre-dexed/debug/com.android.support-animated-vector-drawable-23.4.0_bf6521cf2576ff30dd0076eb447254c12ede0bcd.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/user/AndroidStudioProjects/Profile1/profile/build/intermediates/exploded-aar/Profile1/communicator/unspecified/jars/libs/org.apache.http.legacy.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="c8b30cc50ebafca34f109e7f52e6c1f0768f0b19">
+        <dex dex="/Users/user/AndroidStudioProjects/Profile1/profile/build/intermediates/pre-dexed/debug/org.apache.http.legacy_8e81f51736c8c425c2ca4bef97d236e1a152ce24.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/user/AndroidStudioProjects/Profile1/profile/build/intermediates/exploded-aar/Profile1/communicator/unspecified/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="7bfd943c76383e87077c7431a77a340187e96427">
+        <dex dex="/Users/user/AndroidStudioProjects/Profile1/profile/build/intermediates/pre-dexed/debug/Profile1-communicator-unspecified_28d9be04f9942dc358ccb70efeb33399058f32e2.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/user/AndroidStudioProjects/Profile1/profile/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="548f06de403a9409f00554b3ee12a9fdea0e236c">
+        <dex dex="/Users/user/AndroidStudioProjects/Profile1/profile/build/intermediates/pre-dexed/debug/com.android.support-appcompat-v7-23.4.0_24a9dccc9f77ab4bab5d1c4a5dec20f183bc9689.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/user/AndroidStudioProjects/Profile1/profile/build/intermediates/exploded-aar/com.android.support/design/23.4.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="5326d9a850d491714fef8cbfaa9ea3416f0bf0d2">
+        <dex dex="/Users/user/AndroidStudioProjects/Profile1/profile/build/intermediates/pre-dexed/debug/com.android.support-design-23.4.0_d4f597b0c0ed11bec9bc085e6a62f3036c322ae1.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/user/AndroidStudioProjects/Profile1/profile/build/intermediates/exploded-aar/Profile1/uploader/unspecified/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="f73fd02ac3abfea0a7f144f6b918587193ba1434">
+        <dex dex="/Users/user/AndroidStudioProjects/Profile1/profile/build/intermediates/pre-dexed/debug/Profile1-uploader-unspecified_1c8835b73abac12f595589df479ab6d4f82e50da.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/user/AndroidStudioProjects/Profile1/profile/build/intermediates/exploded-aar/Profile1/multipleTypesAdapter/unspecified/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="056ba60db6c794bfd960f12c6db51096c4e5977b">
+        <dex dex="/Users/user/AndroidStudioProjects/Profile1/profile/build/intermediates/pre-dexed/debug/Profile1-multipleTypesAdapter-unspecified_25e9b4f59838992bf7cb986e94e637c013181aea.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/user/AndroidStudioProjects/Profile1/profile/build/intermediates/exploded-aar/Profile1/uploader/unspecified/jars/libs/httpclientandroidlib-1.2.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="c4bdd3d8c5475f8d71326d98a7568a084b928500">
+        <dex dex="/Users/user/AndroidStudioProjects/Profile1/profile/build/intermediates/pre-dexed/debug/httpclientandroidlib-1.2.0_a8ecb6bcef42762a252a007cd5f2bf22d48c83cb.jar" />
+    </item>
+
+</items>

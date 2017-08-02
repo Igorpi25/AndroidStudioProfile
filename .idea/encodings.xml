@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding">
+    <file url="file://$PROJECT_DIR$/multipleTypesAdapter/src/main/java/com/ivanov/tech/multipletypesadapter/Binder.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/multipleTypesAdapter/src/main/java/com/ivanov/tech/multipletypesadapter/demo/FragmentDemo.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/multipleTypesAdapter/src/main/java/com/ivanov/tech/multipletypesadapter/demo/FragmentDemoMD.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/profile/src/main/java/com/ivanov/tech/profile/Profile.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/profile/src/main/java/com/ivanov/tech/profile/service/TransportProfile.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/profile/src/main/java/com/ivanov/tech/profile/ui/FragmentContacts.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/profile/src/main/java/com/ivanov/tech/profile/ui/FragmentGroup.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/uploader/src/main/java/com/ivanov/tech/uploader/demo/FragmentDemo.java" charset="UTF-8" />
+  </component>
+</project>

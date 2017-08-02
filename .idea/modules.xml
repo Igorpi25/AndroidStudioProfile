@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Profile1.iml" filepath="$PROJECT_DIR$/Profile1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/communicator/communicator.iml" filepath="$PROJECT_DIR$/communicator/communicator.iml" />
+      <module fileurl="file://$PROJECT_DIR$/connection/connection.iml" filepath="$PROJECT_DIR$/connection/connection.iml" />
+      <module fileurl="file://$PROJECT_DIR$/multipleTypesAdapter/multipleTypesAdapter.iml" filepath="$PROJECT_DIR$/multipleTypesAdapter/multipleTypesAdapter.iml" />
+      <module fileurl="file://$PROJECT_DIR$/profile/profile.iml" filepath="$PROJECT_DIR$/profile/profile.iml" />
+      <module fileurl="file://$PROJECT_DIR$/session/session.iml" filepath="$PROJECT_DIR$/session/session.iml" />
+      <module fileurl="file://$PROJECT_DIR$/uploader/uploader.iml" filepath="$PROJECT_DIR$/uploader/uploader.iml" />
+    </modules>
+  </component>
+</project>

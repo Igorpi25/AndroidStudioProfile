@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="color_focused">#3280b8</color>
+    <color name="color_gray">#707070</color>
+    <color name="color_gray_dark">#1b1b1b</color>
+    <color name="color_gray_light">#b6b6b6</color>
+    <color name="color_gray_medial">#8c8c8c</color>
+    <color name="color_green">#0c660c</color>
+    <color name="color_green_dark">#094d09</color>
+    <color name="color_mat">#EEE</color>
+    <color name="color_overlay_black">#E000</color>
+    <color name="color_overlay_white">#EFFF</color>
+    <color name="color_pink">#da5e5e</color>
+    <color name="color_red">#c81818</color>
+    <color name="color_text_black">#000</color>
+    <color name="color_text_gray">#bfbfbf</color>
+    <color name="color_text_white">#FFF</color>
+    <color name="color_transparent">#0000</color>
+    <color name="color_white">#FFFF</color>
+    <color name="color_window_gray">#707070</color>
+    <color name="color_window_red">#c81818</color>
+    <color name="color_window_white">#FFF</color>
+    <dimen name="addusers_horizontal_divider">10dp</dimen>
+    <dimen name="addusers_horizontal_height">60dp</dimen>
+    <dimen name="addusers_horizontal_imageview_size">40dp</dimen>
+    <dimen name="addusers_horizontal_pading">10dp</dimen>
+    <dimen name="button_dialog_corner_radius">2dp</dimen>
+    <dimen name="button_dialog_padding">2dp</dimen>
+    <dimen name="button_dialog_stroke_width">0.5dp</dimen>
+    <dimen name="card_margin">16dp</dimen>
+    <dimen name="edittext_dialog_corner_radius">2dp</dimen>
+    <dimen name="edittext_dialog_padding">2dp</dimen>
+    <dimen name="edittext_dialog_padding_separator">0.5dp</dimen>
+    <dimen name="edittext_dialog_stroke_width">0.7dp</dimen>
+    <dimen name="widget_edittext_padding">10dp</dimen>
+    <dimen name="widget_height">50dp</dimen>
+    <dimen name="widget_width_long">300dp</dimen>
+    <dimen name="widget_width_medial">200dp</dimen>
+    <dimen name="widget_width_small">100dp</dimen>
+    <dimen name="widget_width_small_big">150dp</dimen>
+    <dimen name="window_dialog_pading">20dp</dimen>
+    <dimen name="window_pading">20dp</dimen>
+    <string name="app_name">MultipleTypesAdapter</string>
+    <string name="ipsum">Jarlsberg lancashire edam. Dolcelatte hard cheese brie st. agur blue
+    cheese caerphilly bavarian bergkase cheese and biscuits mascarpone. Cheeseburger swiss bavarian
+    bergkase cream cheese fromage frais cheesy feet port-salut airedale. St. agur blue cheese rubber
+    cheese caerphilly cheddar cheesecake cream cheese manchego lancashire. Roquefort squirty cheese
+    the big cheese.</string>
+    <string name="logo">com.ivanov.tech.multipletypesadapter</string>
+    <string name="nhz_text">Динамично развивающееся предприятие, занимающееся производством хлеба и хлебобулочных изделий с 2010 года.
+	В 2011 году запущено здание хлебозавода общей площадью 420 кв.м., имеется два склада под хранение муки. Хлебопекарня на данный момент имеет большой спрос в сфере производства хлеба и хлебобулочных изделий. За два года работы создано 20 новых рабочих мест.
+	Ежемесячно выпускается 30.0 тонн хлебаю В ассортименте 3 вида хлеба и 13 видов хлебобулочных и кондитерских изделий.</string>
+    <string name="product_shopping_cart_button_edit">"<u>Редактировать</u>"</string>
+    <string name="product_shopping_cart_button_remove">"<u>Удалить</u>"</string>
+    <string name="rub_r">р.</string>
+    <string name="rub_rub">Руб.</string>
+    <string name="subs">(demo activity)</string>
+    <style name="Base.Theme.DesignDemo" parent="Theme.AppCompat.DayNight.NoActionBar">
+        <item name="colorPrimary">#673AB7</item>
+        <item name="colorPrimaryDark">#512DA8</item>
+        <item name="colorAccent">#FF4081</item>
+    </style>
+    <style name="SpecialButton" parent="Widget.AppCompat.Button.Colored">
+	  <item name="colorButtonNormal">#0c660c</item>
+	  <item name="android:textColorPrimary">#fff</item>
+	</style>
+    <style name="Theme.DesignDemo" parent="Base.Theme.DesignDemo">
+    </style>
+    <style name="Widget.CardContent" parent="android:Widget">
+        <item name="android:paddingLeft">16dp</item>
+        <item name="android:paddingRight">16dp</item>
+        <item name="android:paddingTop">24dp</item>
+        <item name="android:paddingBottom">24dp</item>
+        <item name="android:orientation">vertical</item>
+    </style>
+    <style name="Widget.CardItem" parent="android:Widget">
+        <item name="android:paddingLeft">16dp</item>
+        <item name="android:paddingRight">16dp</item>
+        <item name="android:paddingTop">16dp</item>
+        <item name="android:paddingBottom">12dp</item>
+        <item name="android:orientation">vertical</item>
+    </style>
+    <style name="style_button_dialog" parent="@android:style/Widget.Button">
+    	<item name="android:background">@drawable/drawable_button_dialog_normal</item>
+        <item name="android:width">@dimen/widget_width_medial</item>
+        <item name="android:height">@dimen/widget_height</item>
+        <item name="android:textColor">@color/color_selector_font</item>    
+    </style>
+    <style name="style_edittext_dialog" parent="@android:style/Widget.EditText">
+        <item name="android:background">@drawable/drawable_edittext</item>
+        <item name="android:textColorHint">@color/color_gray_light</item>
+        <item name="android:padding">@dimen/widget_edittext_padding</item>
+        <item name="android:width">@dimen/widget_width_long</item>
+        <item name="android:height">@dimen/widget_height</item>
+
+    </style>
+</resources>

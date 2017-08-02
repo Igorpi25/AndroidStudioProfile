@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="color_focused">#3280b8</color>
+    <color name="color_gray">#707070</color>
+    <color name="color_gray_dark">#1b1b1b</color>
+    <color name="color_gray_light">#b6b6b6</color>
+    <color name="color_gray_medial">#8c8c8c</color>
+    <color name="color_green">#18c818</color>
+    <color name="color_overlay_black">#E000</color>
+    <color name="color_overlay_white">#EFFF</color>
+    <color name="color_pink">#da5e5e</color>
+    <color name="color_red">#c81818</color>
+    <color name="color_text_black">#000</color>
+    <color name="color_text_gray">#bfbfbf</color>
+    <color name="color_text_white">#FFF</color>
+    <color name="color_transparent">#0000</color>
+    <color name="color_white">#FFF</color>
+    <color name="color_window_gray">#707070</color>
+    <color name="color_window_red">#c81818</color>
+    <color name="color_window_white">#FFF</color>
+    <dimen name="button_dialog_corner_radius">2dp</dimen>
+    <dimen name="button_dialog_padding">2dp</dimen>
+    <dimen name="edittext_dialog_corner_radius">2dp</dimen>
+    <dimen name="edittext_dialog_padding">2dp</dimen>
+    <dimen name="edittext_dialog_padding_separator">0.5dp</dimen>
+    <dimen name="edittext_dialog_stroke_width">0.7dp</dimen>
+    <dimen name="widget_edittext_padding">10dp</dimen>
+    <dimen name="widget_height">50dp</dimen>
+    <dimen name="widget_width_long">300dp</dimen>
+    <dimen name="widget_width_medial">200dp</dimen>
+    <dimen name="widget_width_small">100dp</dimen>
+    <dimen name="widget_width_small_big">150dp</dimen>
+    <dimen name="window_dialog_pading">20dp</dimen>
+    <dimen name="window_pading">20dp</dimen>
+    <string name="app_name">Ivanov\'s Tech Connection</string>
+    <string name="connection_button_cancel">Cancel</string>
+    <string name="connection_button_confirm">Confirm</string>
+    <string name="connection_server_button_retry">Retry</string>
+    <string name="connection_server_textview_message">Sorry, server is not responding. Please try again after few minites</string>
+    <string name="connection_textview_message">Can\'t connect to the Internet. Go to network settings?</string>
+    <string name="logo">com.ivanov.tech.connection</string>
+    <string name="subs">(demo activity)</string>
+    <style name="AppBaseTheme" parent="Theme.AppCompat.DayNight.NoActionBar">
+        <item name="colorPrimary">#673AB7</item>
+        <item name="colorPrimaryDark">#512DA8</item>
+        <item name="colorAccent">#FF4081</item>
+    </style>
+    <style name="AppTheme" parent="AppBaseTheme">
+        <!-- All customizations that are NOT specific to a particular API-level can go here. -->
+    </style>
+    <style name="style_button_dialog" parent="@android:style/Widget.Button">
+    	<item name="android:background">@drawable/drawable_button_dialog</item>
+        <item name="android:width">@dimen/widget_width_medial</item>
+        <item name="android:height">@dimen/widget_height</item>
+        <item name="android:textColor">@color/color_white</item>    
+    </style>
+    <style name="style_button_dialog_alter" parent="@android:style/Widget.Button">
+    	<item name="android:background">@drawable/drawable_button_dialog_alter</item>
+        <item name="android:width">@dimen/widget_width_medial</item>
+        <item name="android:height">@dimen/widget_height</item>    
+        <item name="android:textColor">@color/color_white</item>
+    </style>
+    <style name="style_edittext_dialog" parent="@android:style/Widget.EditText">
+        <item name="android:background">@drawable/drawable_edittext</item>
+        <item name="android:textColorHint">@color/color_gray_light</item>
+        <item name="android:padding">@dimen/widget_edittext_padding</item>
+        <item name="android:width">@dimen/widget_width_long</item>
+        <item name="android:height">@dimen/widget_height</item>
+
+    </style>
+</resources>

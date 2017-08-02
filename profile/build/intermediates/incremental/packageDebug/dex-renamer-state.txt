@@ -1,0 +1,4 @@
+#Wed Aug 02 11:39:49 YAKT 2017
+base.0=/Users/user/AndroidStudioProjects/Profile1/profile/build/intermediates/transforms/dex/debug/folders/1000/1f/main
+renamed.0=classes.dex
+file.0=/Users/user/AndroidStudioProjects/Profile1/profile/build/intermediates/transforms/dex/debug/folders/1000/1f/main/classes.dex

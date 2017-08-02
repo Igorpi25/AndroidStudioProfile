@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="GradleSettings">
+    <option name="linkedExternalProjectsSettings">
+      <GradleProjectSettings>
+        <option name="distributionType" value="DEFAULT_WRAPPED" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="modules">
+          <set>
+            <option value="$PROJECT_DIR$" />
+            <option value="$PROJECT_DIR$/communicator" />
+            <option value="$PROJECT_DIR$/connection" />
+            <option value="$PROJECT_DIR$/multipleTypesAdapter" />
+            <option value="$PROJECT_DIR$/profile" />
+            <option value="$PROJECT_DIR$/session" />
+            <option value="$PROJECT_DIR$/uploader" />
+          </set>
+        </option>
+        <option name="resolveModulePerSourceSet" value="false" />
+      </GradleProjectSettings>
+    </option>
+  </component>
+</project>

@@ -1,0 +1,6 @@
+include ':connection'
+include ':session'
+include ':communicator'
+include ':uploader'
+include ':multipleTypesAdapter'
+include ':profile'
