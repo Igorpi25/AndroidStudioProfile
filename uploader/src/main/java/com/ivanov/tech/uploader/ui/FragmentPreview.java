@@ -84,7 +84,13 @@ public class FragmentPreview extends DialogFragment implements OnClickListener{
         // images
         options.inSampleSize = 8;
 
-        final Bitmap bitmap = PhotoMultipartRequest.getBitmap(filepath,params);
+
+        final Bitmap bitmap = PhotoMultipartRequest.getBitmap(getActivity(),filepath,params);
+
+        if(bitmap==null){
+            close();
+            return view;
+        }
 
         imageview.setImageBitmap(bitmap);
         

@@ -134,7 +134,7 @@ public class Uploader {
     	final String tag=TAG+" doUploadRequest ";
     	
     	
-    	PhotoMultipartRequest request=new PhotoMultipartRequest(filePath,
+    	PhotoMultipartRequest request=new PhotoMultipartRequest(context,filePath,
     			params,
     			new Listener<String>(){
 
